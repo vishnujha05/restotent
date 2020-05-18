@@ -1,0 +1,97 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.navbar-dark ,.colour{
+    background-color: rgb(117, 6, 221);
+}
+.top{
+    background-color: rgb(54, 2, 102);
+    color: white;
+    font-size: bolder;
+}
+.foot{
+    background-color: rgb(169, 160, 247);
+}
+.btnreserve{
+    margin-top: 80px !important;
+    width: 150px;
+    font-weight: bold;
+
+}
+.logo{
+    width: 35px;
+}
+.round{
+    border-radius: 20px;
+}
+.fb{
+    color: rgb(6, 6, 131);
+}
+.lin{
+    color: rgb(4, 87, 182);
+}
+.youtube{
+    color: red;
+}
+.mail{
+    color: orangered;
+}
+.date,.time{
+    width: 170px;
+    border-radius: 5px;
+    box-shadow: 1px 1px 1px 1px;
+
+}
+.card{
+    width: px;
+}
+
+.card-body{
+    background-color: rgb(201, 212, 153);
+
+}
+.card-header{
+    background-color: rgb(63, 3, 119);
+
+}
+.carousels{
+    width: 800px;
+}
+.modal-header{
+    background-color: rgb(89, 68, 109);
+    color: white;
+}
+.modal-body , .modal-footer{
+    background-color: rgb(211, 193, 230);
+}
+/*carousels style*/
+.carousel {
+    background:#512DA8;
+    margin:0px auto;
+}
+
+.carousel-item {
+  height: 300px;
+}
+
+.carousel-item img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-height: 300px;
+}
+
+/*carousels play or pause*/
+#carouselButton {
+    right:0px;
+    position: absolute;
+    bottom: 0px;
+    z-index: 1;
+}
+.dropdown-item:hover{
+    color: black !important;
+
+}
+
+

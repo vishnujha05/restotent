@@ -1,0 +1,30 @@
+.navbar-dark,.colour{
+    background-color: rgb(122, 4, 231);
+
+}
+.top{
+    background-color: rgb(48, 2, 92);
+    color: white;
+    font-size: bolder;
+}
+.dropdown-item:hover{
+    color: black !important;
+
+}
+.logo{
+    width: 35px;
+}
+.foot{
+    background-color: rgb(169, 160, 247);
+}
+.modal-body{
+    background-color: rgb(211, 193, 230);
+}
+.modal-header{
+    background-color: rgb(89, 68, 109);
+    color: white;
+}
+.formlevel{
+    margin: px;
+    padding-left: ;
+}

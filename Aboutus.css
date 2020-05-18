@@ -1,0 +1,70 @@
+.header{
+    background-color: rgb(74, 3, 141);
+}
+.footer{
+    background-color: rgb(243, 160, 243);
+}
+@media screen and (min-width:992px){
+    .flink{
+        padding-top: 25px;
+    }
+}
+.navbar-dark , .colour{
+    background-color: rgb(122, 4, 231);
+}
+.fb{
+    color: rgb(6, 6, 131);
+}
+.lin{
+    color: rgb(4, 87, 182);
+}
+.youtube{
+    color: red;
+}
+.mail{
+    color: orangered;
+}
+.foot{
+    background-color: rgb(169, 160, 247);
+}
+.cardbody{
+    background-color: rgb(164, 197, 235);
+    margin-left: 0.5px;
+}
+.headers{
+    background-color: rgb(63, 3, 119);
+
+}
+
+.top{
+    background-color: rgb(48, 2, 92);
+    color: white;
+    font-size: bolder;
+}
+.cardheader{
+    background-color: rgb(210, 211, 209);
+}
+.logo{
+    width: 35px;
+}
+.thead-dar{
+    background-color: rgb(63, 3, 119);
+
+    
+}
+.tab-content{
+    border-right: 1px solid rgb(189, 189, 190);
+    border-left: 1px solid rgb(189, 189, 190);
+    border-bottom: 1px solid rgb(189, 189, 190);
+}
+.modal-header{
+    background-color: rgb(89, 68, 109);
+    color: white;
+}
+.modal-body{
+    background-color: rgb(211, 193, 230);
+}
+.dropdown-item:hover{
+    color: black !important;
+
+}
